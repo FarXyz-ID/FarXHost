@@ -1,15 +1,10 @@
-
-{
-  "62xxxxxx": {
-    "name": "aan",
-    "password": "1"
+[
+  {
+    "name": "Farx",
+    "number": "6283891813151"
   },
-  "6281330217504": {
-    "name": "FarX",
-    "password": "FarXyzId"
-  },
-  "6282120627665": {
-    "name": "farxyz",
-    "password": "farxyz"
+  {
+    "name": "Ani",
+    "number": "6281330217504"
   }
-}
+]
